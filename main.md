@@ -5,7 +5,7 @@ Natural Language Processing, Cognitive Science, and Machine Learning.
 
 
 My current research involves developing computational
-models of lexical creativity that supports automated inference and
+models of lexical creativity that support automated inference and
 generation of innovative language use, e.g., noun-to-verb class extension
 and verb syntactic frame extension. My approach draws on a combination of
 deep generative and Bayesian probabilistic models, as well as cognitive
