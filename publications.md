@@ -4,7 +4,7 @@ title: Publications
 ---
 * **Lei Yu**, Yang Xu. (2022, to appear) Noun2Verb: Probabilistic frame semantics for word class conversion. In *Computational Linguistics*. [[pdf]]() [[GitHub]]() 
 
-* **Lei Yu**, Yang Xu. (2022, to appear) Infinite mixture chaining: Efficient temporal construction of word meaning. In *Proceedings of the 44nd Annual Meeting of the Cognitive Science Society*.(*CogSci2022*). [[pdf]]() [[GitHub]]() 
+* **Lei Yu**, Yang Xu. (2022, to appear) Infinite mixture chaining: Efficient temporal construction of word meaning. In *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*.(*CogSci2022*). [[pdf]]() [[GitHub]]() 
 
 * **Lei Yu**, Yang Xu. (2021) Predicting emergent linguistic compositions through time: Syntactic frame extension via multimodal chaining. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*. [[pdf]](https://aclanthology.org/2021.emnlp-main.71/) [[GitHub]](https://github.com/jadeleiyu/frame_extension) 
 
