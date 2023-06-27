@@ -4,16 +4,10 @@ I am a Ph.D. computer science student at <a href="https://www.utoronto.ca">Unive
 Natural Language Processing, Cognitive Science, and Machine Learning.
 
 
-My current research involves developing computational
-models of lexical creativity that support automated inference and
-generation of innovative language use, e.g., noun-to-verb class extension
-and verb syntactic frame extension. My approach draws on a combination of
-deep generative and Bayesian probabilistic models, as well as cognitive
-theories of categorization.
- 
-
-Before coming to Toronto, I spent three years as an undergraduate at [McGill University](https://www.mcgill.ca), Montreal, where I worked with [Prof. Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/index.html), [Prof. Timothy O'Donnell](http://people.linguistics.mcgill.ca/~timothy.odonnell/) and [Prof. Thomas Shultz](https://www.tomshultz.net) on NLP and cognitive science research projects.
-
+My research involves developing computational
+models that support automated inference and
+generation of innovative language use such as metonymy and metaphor. My approach draws on a combination of
+neural language model and cognitive theories of categorization. I'm also interested in understanding the internal mechanism of contextualized language models in representing and applying linguistic and world knowledge. 
 
 
 Contact: jadeleiyu [at] cs [dot] toronto [dot] edu
