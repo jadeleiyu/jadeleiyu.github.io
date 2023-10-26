@@ -1,13 +1,9 @@
 <img align="left" src="photos/bio-photo.jpeg" alt="drawing" width="200" style="float: left;margin-right: 7px;margin-top: 7px;"/>
 
 I am a Ph.D. computer science student at <a href="https://www.utoronto.ca">University of Toronto</a> working with Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html) in the [Computational Linguistics Group](http://www.cs.toronto.edu/compling/index.html). My research interest lies at the intersection of
-Natural Language Processing, Cognitive Science, and Machine Learning.
+natural language processing, machine learning, and cognitive science.
 
-
-My research involves developing computational
-models that support automated inference and
-generation of innovative language use such as metonymy and metaphor. My approach draws on a combination of
-neural language model and cognitive theories of categorization. I'm also interested in understanding the internal mechanism of contextualized language models in representing and applying linguistic and world knowledge. 
+My PhD thesis is focused on building computational models that support inference and generation of creative language use such as metaphor and idioms. Meanwhile, I'm also interested in the mechanistic interpretability of neural networks (particularly transformer language models) in applying linguistic and world knowledge, and how such understanding could guide us design NLP systems that are more aligned with human values.  
 
 
 Contact: jadeleiyu [at] cs [dot] toronto [dot] edu
