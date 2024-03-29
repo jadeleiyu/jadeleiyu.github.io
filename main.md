@@ -7,7 +7,7 @@ My current research is focused on unveiling the mechanistic principles of large 
 
 During my PhD, I studied computational modeling of creative language use such as metaphor and idiom. 
 
-For more information, you can find my CV [here](https://github.com/jadeleiyu/jadeleiyu.github.io/blob/master/assets/jade_lei_yu_cv_2024_03_27.pdf).
+For more information, you can find my CV [here](https://jadeleiyu.github.io/assets/jade_lei_yu_cv_2024_03_27.pdf).
 
 
 Contact: jadeleiyu [at] cs [dot] toronto [dot] edu
