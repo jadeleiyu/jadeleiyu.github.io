@@ -15,7 +15,6 @@ navigation:                  # site navigation in the header
   - index.html
   - education.html
   - publications.html
-  - cv.html
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
  envelope: "mailto:jadeleiyu@cs.toronto.edu"
