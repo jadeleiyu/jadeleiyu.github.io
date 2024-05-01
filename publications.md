@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-* **Lei Yu**. (2023) Systematic word meta-sense extension. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)*. [[pdf]]() [[GitHub]]()
+* **Lei Yu**. (2023) Systematic word meta-sense extension. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)*. [[pdf]](https://arxiv.org/pdf/2311.13029) [[GitHub]]()
 
 * **Lei Yu**, Yang Xu. (2023) Word sense extension. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*. [[pdf]](https://aclanthology.org/2023.acl-long.184/#:~:text=We%20develop%20a%20framework%20that,from%20the%20same%20word%20type.) [[GitHub]](https://github.com/jadeleiyu/word_sense_extension)
 
