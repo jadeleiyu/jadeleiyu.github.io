@@ -6,7 +6,7 @@ My current research is focused on developing interpretable and efficient methods
 
 During my PhD, I also studied computational models for generating creative language use such as metaphor and idiom. 
 
-For more information, you can find my CV [here](https://jadeleiyu.github.io/assets/jade_lei_yu_cv_2024_11_08.pdf).
+For more information, you can find my CV [here](https://jadeleiyu.github.io/assets/jade_lei_yu_cv_2024_12_01.pdf).
 
 
 Contact: jadeleiyu [at] cs [dot] toronto [dot] edu
