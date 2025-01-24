@@ -84,8 +84,22 @@ work:
     company_name: Meta FAIR
     company_url: ''
     company_logo: ''
-    date_start: 2025-04-01
+    date_start: 2025-05-01
     date_end: ''
+
+  - position: Research Internship
+    company_name: Google Research
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: 2024-02-28
+  
+  - position: Research Internship
+    company_name: Meta FAIR
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: 2024-11-15
   #   summary: |2-
   #     Responsibilities include:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
