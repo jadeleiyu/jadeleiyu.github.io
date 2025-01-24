@@ -71,7 +71,7 @@ education:
   - area: BSc in Computer Science and Statistics
     institution: McGill University
     date_start: 2016-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     # summary: |
     #   GPA: 3.4/4.0
       
