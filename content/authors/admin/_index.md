@@ -92,7 +92,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-12-01
-    date_end: 2024-02-28
+    date_end: 2025-02-28
   
   - position: Research Internship
     company_name: Meta FAIR
