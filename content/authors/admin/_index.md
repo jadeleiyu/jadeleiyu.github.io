@@ -43,8 +43,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Large Language Model
+  - Large Language Models
   - AI Agent
+  - World Models
   - AI Safety and Interpretability
 
 education:
@@ -194,9 +195,9 @@ skills:
 
 ## About Me
 
-I am an AI Research Scientist at Meta AI, in the Fundamental AI Research (FAIR) team. I received my PhD in Computer Science from University of Toronto, where I was advised by Yang Xu. 
+I am an AI Research Scientist at Meta, in [the Fundamental AI Research (FAIR)](https://ai.meta.com/research/) team. I received my PhD in Computer Science from University of Toronto, where I was advised by Yang Xu. 
 
-My current research interest includes training AI agents, multimodal LLM reasoning, AI safety, and mechanistic interpretability.
+My current research interest includes studying AI agents, world modeling, and AI safety.
 
-During my PhD, I studied automated understanding and generation of creative language use. I was fortunate to work as a research intern at Meta FAIR and Google Research. 
+During my PhD, I studied automated understanding and generation of creative language use. I was fortunate to intern at Meta FAIR and Google Research. 
 
