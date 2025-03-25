@@ -81,23 +81,23 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: AI Research Scientist
-    company_name: Meta FAIR
-    company_url: ''
+  - position: Research Scientist
+    company_name: Meta AI (FAIR)
+    company_url: 'https://ai.meta.com/research/'
     company_logo: ''
-    date_start: 2025-05-01
+    date_start: 2025-05-12
     date_end: ''
 
   - position: Research Internship
     company_name: Google Research
-    company_url: ''
+    company_url: 'https://research.google/'
     company_logo: ''
     date_start: 2024-12-01
     date_end: 2025-02-28
   
   - position: Research Internship
-    company_name: Meta FAIR
-    company_url: ''
+    company_name: Meta AI (FAIR)
+    company_url: 'https://ai.meta.com/research/'
     company_logo: ''
     date_start: 2024-06-01
     date_end: 2024-11-15
@@ -197,7 +197,7 @@ skills:
 
 I am an AI Research Scientist at Meta, in [the Fundamental AI Research (FAIR)](https://ai.meta.com/research/) team. I received my PhD in Computer Science from University of Toronto, where I was advised by Yang Xu. 
 
-My current research interest includes studying AI agents, world modeling, and AI safety.
+My current research interest includes Large Language Model (LLM) alignment, AI agents, world modeling, and mechanistic interpretability.
 
-During my PhD, I studied automated understanding and generation of creative language use. I was fortunate to intern at Meta FAIR and Google Research. 
+During my PhD, I studied automated understanding and generation of creative language use. I was fortunate to intern at Meta AI (FAIR) and Google Research. 
 
