@@ -195,9 +195,13 @@ skills:
 
 ## About Me
 
-I am an AI Research Scientist at Meta, in [the Fundamental AI Research (FAIR)](https://ai.meta.com/research/) team. I received my PhD in Computer Science from University of Toronto, where I was advised by Yang Xu. 
+I am an AI Research Scientist at Meta, in [the Fundamental AI Research (FAIR)](https://ai.meta.com/research/) team. I received my PhD in Computer Science from University of Toronto, where I was advised by [Yang Xu](https://www.cs.toronto.edu/~yangxu/index.html). 
 
-My current research interest includes Large Language Model (LLM) alignment, AI agents, world modeling, and mechanistic interpretability.
+My current research involves:
+* Aligning Large Language Models (LLMs) with human values 
+* Training AI agents 
+* Building world models
+* Studying the mechanistic interpretability of neural networks
 
-During my PhD, I studied automated understanding and generation of creative language use. I was fortunate to intern at Meta AI (FAIR) and Google Research. 
+During my PhD, I studied automated understanding and generation of creative language use, and I was fortunate to work as a research intern at Meta AI (FAIR) and Google Research. 
 
