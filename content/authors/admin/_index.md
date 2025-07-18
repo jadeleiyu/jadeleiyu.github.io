@@ -22,14 +22,14 @@ role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta FAIR
+  - name: Meta Superintelligence Labs
     url: https://ai.meta.com/research/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jadeleiyu@cs.toronto.edu'
+    url: 'mailto:jadeleiyu@meta.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/jade_lei_yu
@@ -81,8 +81,8 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Research Scientist
-    company_name: Meta AI (FAIR)
+  - position: AI Research Scientist
+    company_name: Meta Superintelligence Labs
     company_url: 'https://ai.meta.com/research/'
     company_logo: ''
     date_start: 2025-05-12
@@ -93,7 +93,7 @@ work:
     company_url: 'https://research.google/'
     company_logo: ''
     date_start: 2024-12-01
-    date_end: 2025-02-28
+    date_end: 2025-03-01
   
   - position: Research Internship
     company_name: Meta AI (FAIR)
@@ -195,13 +195,9 @@ skills:
 
 ## About Me
 
-I am an AI Research Scientist at Meta, in [the Fundamental AI Research (FAIR)](https://ai.meta.com/research/) team. I received my PhD in Computer Science from University of Toronto, where I was advised by [Yang Xu](https://www.cs.toronto.edu/~yangxu/index.html). 
+I am a Research Scientist at [Meta AI](https://ai.meta.com/research/). I received my PhD in Computer Science from University of Toronto, where I was advised by [Yang Xu](https://www.cs.toronto.edu/~yangxu/index.html). 
 
-My current research involves:
-* Aligning Large Language Models (LLMs) with human values 
-* Training AI agents 
-* Building world models
-* Studying the mechanistic interpretability of neural networks
+My current research is focused on training Large Language Model (LLM)-based AI Agents on computing devices, by employing methods in reinforcement learning, world modeling, and multimodal reasoning. I also conduct research on the mechanistic interpretability and safety alignment of generative AI systems. 
 
-During my PhD, I studied automated understanding and generation of creative language use, and I was fortunate to work as a research intern at Meta AI (FAIR) and Google Research. 
+During my PhD, I studied automated understanding and generation of creative language use, and I was fortunate to intern at Meta FAIR and Google Research. 
 
