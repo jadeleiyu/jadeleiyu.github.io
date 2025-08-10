@@ -195,9 +195,12 @@ skills:
 
 ## About Me
 
-I am a Research Scientist at [Meta AI](https://ai.meta.com/research/). I received my PhD in Computer Science from University of Toronto, where I was advised by [Yang Xu](https://www.cs.toronto.edu/~yangxu/index.html). 
+I’m an AI research scientist at **Meta Superintelligence Labs**. I received my Ph.D. in Computer Science from University of Toronto. where I was advised by Yang Xu. 
 
-My current research is focused on training Large Language Model (LLM)-based AI Agents on computing devices, by employing methods in reinforcement learning, world modeling, and multimodal reasoning. I also conduct research on the mechanistic interpretability and safety alignment of generative AI systems. 
+My current research centers on **multimodal AI agent systems** powered by **large language models**. I explore how these agents can **reason, memorize, plan, and act** for real-world tasks, and how they could adaptively infer and fulfill user needs. My research draws on techniques such as **reinforcement learning, memory-augmented generation, and world models**.
+
+I’m also committed to making AI **reliable and transparent**. I have designed algorithms and tools that improve the **interpretability, safety, and trustworthiness** of large language models. I’m currently focused on understanding how large language models acquire world knowledge and reasoning capability from vast amounts of data during pre-training and post-training. 
+
 
 During my PhD, I studied automated understanding and generation of creative language use, and I was fortunate to intern at Meta FAIR and Google Research. 
 
