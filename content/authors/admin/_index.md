@@ -44,9 +44,10 @@ profiles:
 
 interests:
   - Large Language Models
-  - AI Agent
-  - World Models
-  - AI Safety and Interpretability
+  - Agentic Reinforcement Learning
+  - Synthetic Data Generation
+  - Multimodal Reasoning
+  - AI Safety and Alignment
 
 education:
   - area: PhD in Computer Science
@@ -82,10 +83,10 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: AI Research Scientist
-    company_name: Meta Superintelligence Labs
+    company_name: Meta Superintelligence Labs (FAIR)
     company_url: 'https://ai.meta.com/research/'
     company_logo: ''
-    date_start: 2025-05-12
+    date_start: 2025-04-01
     date_end: ''
 
   - position: Research Internship
@@ -195,8 +196,11 @@ skills:
 
 ## About Me
 
-I’m a research scientist at Meta Superintelligence Labs, in the Fundamental AI Research (FAIR) pillar. My current research centers on building Large Language Model (LLM)-based agentic systems for complex tasks such as code generation, automated research, and self-improvement. 
+I'm an AI research scientist at **Meta Superintelligence Labs**, in the **Fundamental AI Research team (FAIR)**. I work on **Large Language Models (LLMs) and AI Agents**. My current focuses include: 
 
-I’m also committed to making AI reliable and transparent. I have previously designed algorithms and tools that improve the factuality, safety, and interpretability of LLMs. 
+* **Frontier Agentic LLM Development**: I contribute to mid-/post-training of Meta’s **Muse model family**, focusing on **agentic reinforcement learning** for **coding** (e.g. SWE-Bench, Terminal Bench), **automated research** (e.g. MLE-Bench), and **OpenClaw-style tool-use** tasks (e.g. Claw-Eval, ClawBench). 
 
-I received my Ph.D. in Computer Science from University of Toronto, Canada, where I studied automated understanding and generation of creative language use. I was fortunate to intern at Meta FAIR and Google Research. 
+* **Fundamental LLM Research**: I also lead and conduct research projects covering topics like **long-horizon agentic reinforcement learning**, **multimodal reasoning**, **safety post-training**, and **hallucination mitigation**.  
+
+I received my PhD in Computer Science from the University of Toronto, where I studied automated understanding and generation of creative language use. During my PhD, I was fortunate to intern at Meta FAIR and Google Research. 
+
