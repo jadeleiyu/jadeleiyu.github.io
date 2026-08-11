@@ -44,10 +44,10 @@ profiles:
 
 interests:
   - Large Language Models
-  - Agentic Reinforcement Learning
+  - Reinforcement Learning
   - Synthetic Data Generation
-  - Multimodal Reasoning
-  - AI Safety and Alignment
+  - Recursive Self-Improvement
+  - Post-Training Alignment
 
 education:
   - area: PhD in Computer Science
@@ -198,9 +198,9 @@ skills:
 
 I'm a research scientist at **Meta Superintelligence Labs**, in the **Fundamental AI Research (FAIR)** pillar. I work on **Large Language Models (LLMs)** and **AI Agents**. My current work includes:
 
-* **Frontier LLM Development**: I work on mid-/post-training of Meta’s Muse model family, focusing on agentic reinforcement learning for coding and tool use tasks.
+* **Frontier LLM Development**: I work on mid-/post-training of Meta’s Muse models (Muse Spark, Muse Glimmer), focusing on agentic reinforcement learning and synthetic data generation for coding and tool use tasks.
 
-* **Fundamental LLM Research**: I lead and conduct research projects covering topics like long-horizon reinforcement learning, recursive self-improvement, and computational world models. Previously I also published work on multimodal reasoning, safety post-training, and hallucination mitigation.
+* **Fundamental LLM Research**: I lead and conduct research projects covering topics like long-horizon reinforcement learning, agentic synthetic data generation, and recursive self-improvement. Previously I also published papers on multimodal reasoning and LLM post-training alignment.
 
 I received my PhD in Computer Science from the University of Toronto, where I studied automated understanding and generation of creative language use. During my PhD, I was fortunate to intern at Meta FAIR and Google Research. 
 
