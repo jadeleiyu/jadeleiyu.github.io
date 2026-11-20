@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ .Params.description }}">
+  <meta name="theme-color" content="#ffffff">
+  <title>{{ .Title }} — {{ .Params.role }}</title>
+  <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ "style.css" | relURL }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="wordmark" href="#">{{ .Params.short_name }}</a>
+    <nav aria-label="Main navigation">
+      {{ range findRE `(?m)^## .+$` .RawContent }}
+      {{ $label := replaceRE `^## ` "" . }}
+      <a href="#{{ $label | anchorize }}">{{ $label }}</a>
+      {{ end }}
+      {{ with .Site.GetPage "/publications" }}<a href="#publications">Publications</a>{{ end }}
+    </nav>
+  </header>
+  <main id="main">
+    <section class="intro" aria-label="Profile">
+      <div>
+        <p class="eyebrow">{{ .Params.role }}</p>
+        <h1>{{ .Title }}</h1>
+        <p class="affiliation">{{ .Params.affiliation }}</p>
+        <p class="focus">{{ .Params.focus }}</p>
+        <div class="links" aria-label="Contact and profiles">
+          {{ range .Params.links }}<a href="{{ .url | relURL }}">{{ .label }}</a>{{ end }}
+        </div>
+      </div>
+      {{ with .Params.photo }}<img class="portrait" src="{{ . | relURL }}" alt="Portrait of {{ $.Title }}" width="160" height="160">{{ end }}
+    </section>
+    <article class="prose home-content">{{ .Content }}</article>
+    {{ with .Site.GetPage "/publications" }}<section id="publications" class="prose publications" aria-labelledby="publications-title"><h2 id="publications-title">{{ .Title }}</h2>{{ .Content }}</section>{{ end }}
+  </main>
+  <footer><span>© {{ now.Year }} {{ .Title }}</span><a href="#">Back to top</a></footer>
+</body>
+</html>
