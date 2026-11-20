@@ -9,7 +9,7 @@ description: Jade (Lei) Yu is an AI research scientist working on large language
 photo: avatar.png
 links:
 - label: Email
-  url: mailto:jadeleiyu@meta.com
+  url: mailto:jadeleiyu@gmail.com
 - label: X
   url: https://x.com/jade_lei_yu
 - label: GitHub
@@ -24,30 +24,27 @@ links:
 
 <!-- Edit everything on the homepage here. A heading beginning with ## automatically adds a navigation link. -->
 
-## About
 
 ## About Me
+I am a research scientist at Meta Superintelligence Labs, in the Fundamental AI Research pillar (FAIR). I work on Large Language Models (LLMs) and AI Agents.
 
-I received my PhD in Computer Science from the University of Toronto, where I studied automated understanding and generation of creative language use. During my PhD, I was fortunate to intern at Meta FAIR and Google Research.
+I currently work on agentic post-training of Meta's Muse model family, including the Muse Wonder, Muse Spark, and Muse Glimmer series. I also lead and conduct research projects covering topics including long-horizon reinforcement learning and recursive self-improvement.
 
-## Research
+I received my PhD in Computer Science from the University of Toronto, where I studied machine generation of creative language use under the supervision of Yang Xu. During my PhD, I was fortunate to intern at Meta FAIR and Google Research.
 
-* **Frontier LLM Development**: I work on mid-/post-training of Meta’s Muse models (Muse Spark, Muse Glimmer), focusing on agentic reinforcement learning and synthetic data generation for coding and tool use tasks.
-
-* **Fundamental LLM Research**: I lead and conduct research projects covering topics like long-horizon reinforcement learning, agentic synthetic data generation, and recursive self-improvement. Previously I also published papers on multimodal reasoning and LLM post-training alignment.
 
 ## Background
 
 ### Experience
 
-- **AI Research Scientist**, Meta Superintelligence Labs (FAIR) · 2025–Present
-- **Research Internship**, Google Research · 2024–2025
-- **Research Internship**, Meta AI (FAIR) · 2024
+- **AI Research Scientist**, Meta Superintelligence Labs (FAIR) · 2025.03–Present
+- **Research Internship**, Google Research · 2024.12–2025.02
+- **Research Internship**, Meta AI (FAIR) · 2024.06-2024.11
 
 ### Education
 
-- **PhD in Computer Science**, University of Toronto
-- **MSc in Computer Science**, University of Toronto
-- **BSc in Computer Science and Statistics**, McGill University
+- **PhD in Computer Science**, University of Toronto · 2021-2025
+- **MSc in Computer Science**, University of Toronto · 2019-2021
+- **BSc in Computer Science and Statistics**, McGill University · 2016-2019
 
 <!-- Optional: add ## News or ## Projects below, followed by ordinary Markdown. Leave them out until you have content. -->
