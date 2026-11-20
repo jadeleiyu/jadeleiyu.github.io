@@ -1,0 +1,21 @@
+baseURL = 'https://jadeleiyu.github.io/'
+title = 'Jade (Lei) Yu'
+languageCode = 'en-us'
+publishDir = 'dist'
+disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
+
+# These two root-level files are the entire editable website.
+[[module.mounts]]
+source = 'HOME.md'
+target = 'content/_index.md'
+[[module.mounts]]
+source = 'PUBLICATIONS.md'
+target = 'content/publications.md'
+
+[markup.goldmark.renderer]
+hardWraps = true
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 2
+
